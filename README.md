@@ -1,2 +1,2 @@
 # netTools
-some network tools
+network tools for testing purposes

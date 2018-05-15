@@ -1,0 +1,17 @@
+{
+  "name": "echoserver",
+  "version": "1.0.0",
+  "description": "echo server",
+  "main": "dist/EchoServer.js",
+  "bin": {
+    "echoserver": "dist/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.0.6"
+  }
+}
